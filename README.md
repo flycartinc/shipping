@@ -1,2 +1,1 @@
-# shipping
-A Shipping package for StorePress.
+A Shipping Package for StorePress
